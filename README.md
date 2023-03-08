@@ -1,4 +1,4 @@
-# Hi 👋 Welcome to LuQuanfeng's Github Homepage!
+## Hi 👋 Welcome to LuQuanfeng's Github Homepage!
 
 <!--
 **Lqf-HFNJU/LQF-HFNJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ I am Lu Quanfeng and I am 20 years old. Nice to meet you!
 - 😄 I'm currently exploring Time Series Analysis and finding it fascinating.
 - 📫 How to reach me: 201830168@smail.nju.edu.cn
 
-### 💬 Languages
+### ⚡ Languages
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
