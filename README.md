@@ -1,4 +1,4 @@
-### Hi 👋 Welcome to LuQuanfeng's Github Homepage!
+# Hi 👋 Welcome to LuQuanfeng's Github Homepage!
 
 <!--
 **Lqf-HFNJU/LQF-HFNJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## 💬 About Me
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22I%20am%20LuQuanfeng!%22);printf(%22I%20am%20LuQuanfeng!%22);std::cout%20<<%20%22I%20am%20LuQuanfeng!%22;print(%22I%20am%20LuQuanfeng!%22);document.write('I%20am%20LuQuanfeng!');&center=true">
 </div>
