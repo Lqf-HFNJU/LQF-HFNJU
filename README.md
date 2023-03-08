@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 Welcome to LuQuanfeng's Github Homepage!
 
 <!--
 **Lqf-HFNJU/LQF-HFNJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22I am LuQuanfeng!%22);printf(%22I am LuQuanfeng!%22);std::cout%20<<%20%22I am LuQuanfeng!%22;print(%22I am LuQuanfeng!%22);document.write('I am LuQuanfeng!');&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22I%20am%20LuQuanfeng!%22);printf(%22I%20am%20LuQuanfeng!%22);std::cout%20<<%20%22I%20am%20LuQuanfeng!%22;print(%22I%20am%20LuQuanfeng!%22);document.write('I%20am%20LuQuanfeng!');&center=true">
 </div>
 
 I am Lu Quanfeng and I am 20 years old. Nice to meet you!
@@ -47,4 +47,4 @@ I am Lu Quanfeng and I am 20 years old. Nice to meet you!
 
 ### 🚀 Action
 ![](https://raw.githubusercontent.com/LQF-HFNJU/LQF-HFNJU/main/assets/github-contribution-grid-snake.svg)
-
+![](https://activity-graph.herokuapp.com/graph?username=LQF-HFNJU&theme=github)
