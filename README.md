@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### 💬 About Me
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20LuQuanfeng!;Welcome%20to%20LuQuanfeng's%20Github%20Homepage!; Nice%20to%20meet%20you!;&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20LuQuanfeng!;Welcome%20to%20LuQuanfeng%21s%20Github%20Homepage!; Nice%20to%20meet%20you!;&center=true">
 </div>
 
 <!-- <div align="center">
