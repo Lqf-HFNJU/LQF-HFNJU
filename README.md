@@ -29,6 +29,7 @@ I am Lu Quanfeng and I am 20 years old. Nice to meet you!
 - 🎓 Currently, I'm studying Software Engineering in Nanjing University.
 - 🌱 I'm currently immersed in studying Machine Learning and Deep Learning.
 - 😄 I'm currently exploring Time Series Analysis and finding it fascinating.
+- 🔭 I’m currently learning quantitative investment.
 - 📫 How to reach me: 201830168@smail.nju.edu.cn
 
 ### ⚡ Languages
