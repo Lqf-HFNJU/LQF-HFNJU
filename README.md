@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22I%20am%20LuQuanfeng!%22);printf(%22I%20am%20LuQuanfeng!%22);std::cout%20<<%20%22I%20am%20LuQuanfeng!%22;print(%22I%20am%20LuQuanfeng!%22);document.write('I%20am%20LuQuanfeng!');&center=true">
 </div> -->
 
-I am Lu Quanfeng and I am 21 years old. Nice to meet you!
+I am Lu Quanfeng. Nice to meet you!
 
 - 🎓 Currently, I'm studying Software Engineering in Nanjing University.
 - 🌱 I'm currently immersed in studying Machine Learning and Deep Learning.
