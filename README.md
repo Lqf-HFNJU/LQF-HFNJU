@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 I am Lu Quanfeng. Nice to meet you!
 
-- 🎓 Currently, I'm studying Software Engineering in Nanjing University.
-- 🌱 I'm currently immersed in studying Machine Learning, Deep Learning, and Time Series Analysis.
+- 🎓 I'm studying Software Engineering in Nanjing University.
+- 🌱 I'm immersed in studying Machine Learning, Deep Learning, and Time Series Analysis.
 - 😄 I'm currently working on Quantitative Investment.
-- 🔭 I’m currently exploring Large Language Model and finding it fascinating.
+- 🔭 Currently, I’m exploring Large Language Model and finding it fascinating.
 - 📫 How to reach me: 201830168@smail.nju.edu.cn or hflqf88888@gmail.com.
 
 ### ⚡ Languages
