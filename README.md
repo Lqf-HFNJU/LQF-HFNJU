@@ -28,7 +28,7 @@ I am Lu Quanfeng. Nice to meet you!
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
 - 🌱 I'm immersed in studying Machine Learning, Deep Learning, and Time Series Analysis.
-- 😄 I'm currently working on Quantitative Investment.
+- 😄 I'm currently focus on Quantitative Investment.
 - 🔭 Currently, I’m exploring Large Language Model and finding it fascinating.
 - 📫 How to reach me: 201830168@smail.nju.edu.cn or hflqf88888@gmail.com.
 
