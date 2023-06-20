@@ -5,7 +5,7 @@
  
 
 Here are some ideas to get you started:
-    
+
 - 🔭 I’m currently working on a back-end project. Keep an eye for it.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
