@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 I am Lu Quanfeng. Nice to meet you!
 
-- 🎓 I'm a senior undergraduate at Nanjing University.
-- 🌱 I'm immersed in studying Machine Learning, Deep Learning, Time Series Analysis, and Quantitative Investment.
+- 🎓 I'm a a first-year Ph.D. student at Shanghai Jiao Tong University(SJTU).
+- 🌱 I'm immersed in studying Machine Learning, Deep Learning, Time Series Analysis, and Quantitative Investing.
 - 🔭 I’m currently doing some rearch on Large Language Model. Keep an eye for it.
 - 📫 How to reach me: luquanfeng@pjlab.org.cn or hflqf88888@gmail.com.
 
